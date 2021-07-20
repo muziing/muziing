@@ -4,7 +4,7 @@
 
 爱生活，享受当下，享受过程，享受求知的喜悦
 
-<img align="right" src="(https://github-readme-stats.vercel.app/api?username=muziing)" alt="muzing's GitHub stats"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=muziing" alt="muzing's GitHub stats"/>
 
 - 编程 :computer:
 - 摇滚 :headphones:
