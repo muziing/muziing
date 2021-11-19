@@ -1,6 +1,6 @@
 > “驾校除名，自学成才”
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=muziing" alt="muzing's GitHub stats"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=muziing&show_icons=true" alt="muzing's GitHub stats"/>
 
 车辆工程本科在读，不慎中了计算机编程的毒
 
@@ -12,7 +12,7 @@
 - 骑行 :bicyclist:
 - 车辆 :car:
 
-<img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muziing&layout=compact" alt="muzing's Top Langs"/>
+<img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muziing" alt="muzing's Top Langs"/>
 
 **项目：**
 
