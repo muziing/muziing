@@ -10,7 +10,7 @@
 - 摇滚 :headphones:
 - 电影 :film_strip:
 - 骑行 :bicyclist:
-- 车辆 :car:
+- 汽车 :car:
 
 <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muziing" alt="muzing's Top Langs"/>
 
@@ -18,6 +18,5 @@
 
 1. [个人博客](https://muzing.top)
 2. [《机械设计》知识点整理](https://domm.muzing.top)
-3. [PyQt5-笔记代码仓库](https://github.com/muziing/PyQt_practice)
-4. [北邮-网络搜索原理-课程笔记代码仓库](https://github.com/muziing/WebSearchEngine_practice)
-5. [PyQt项目-网络调试助手-socket编程](https://github.com/muziing/NetAssist_PyQt)
+3. [PySide6-代码实例教程](https://github.com/muziing/PySide6-Code-Tutorial)
+4. [PyQt项目-网络调试助手-socket编程](https://github.com/muziing/NetAssist_PyQt)
