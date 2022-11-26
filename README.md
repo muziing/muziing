@@ -16,7 +16,8 @@
 
 **项目：**
 
-1. [个人博客](https://muzing.top)
-2. [《机械设计》知识点整理](https://domm.muzing.top)
-3. [PySide6-代码实例教程](https://github.com/muziing/PySide6-Code-Tutorial)
-4. [PyQt项目-网络调试助手-socket编程](https://github.com/muziing/NetAssist_PyQt)
+1. [技术博客](https://muzing.top)
+2. [PySide6-代码式教程](https://github.com/muziing/PySide6-Code-Tutorial)
+3. [Py2exe-GUI](https://github.com/muziing/Py2exe-GUI)
+4. [《机械设计》学习笔记](https://domm.muzing.top)
+5. [自动驾驶算法](https://github.com/muziing/PythonAutomatedDriving)
