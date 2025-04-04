@@ -1,8 +1,6 @@
-> “驾校除名，自学成才”
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=muziing&show_icons=true" alt="muzing's GitHub stats"/>
 
-车辆工程本科在读，不慎中了计算机编程的毒
+汽车电子行业新人，应用层软件算法工程师。
 
 爱生活，爱吟风；享受当下，享受求知的喜悦
 
@@ -20,4 +18,3 @@
 2. [PySide6-代码式教程](https://github.com/muziing/PySide6-Code-Tutorial)
 3. [Py2exe-GUI](https://github.com/muziing/Py2exe-GUI)
 4. [《机械设计》学习笔记](https://domm.muzing.top)
-5. [自动驾驶算法](https://github.com/muziing/PythonAutomatedDriving)
